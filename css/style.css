@@ -1,0 +1,47 @@
+*{
+
+}
+body{
+    text-align: justify;
+    font-size: 14px ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 10%;
+
+}
+
+h1{
+    font-size: 28px;
+}
+
+h2{
+       font-size: 22px; 
+}
+
+h1, h2 {
+font-family: 'Times New Roman', serif;
+color: limegreen;
+}
+
+p{margin: 22px 0;}
+
+img{
+    margin: auto;
+    display: block;
+    border: 8px;
+    border-style: solid;
+    border-color: limegreen;
+}
+
+#citacao {
+    margin: 0px 60px;
+
+}
+
+#box{
+    background-image:  url(../imagens/fundo.png);
+    padding: 10px;
+    border: 3px;
+    border-style: solid;
+    border-color: limegreen;
+
+}

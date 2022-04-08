@@ -13,7 +13,7 @@ página web.
 
 ### Exercício 1
 
-![Modelo de como deve ficar a página inicial](documentos-do-tio/pagina-inicial.png)
+![Modelo de como deve ficar a página inicial](documentos-do-tihttps://github.com/mmgoto/cefet-web-piranha-plant.gito/pagina-inicial.png)
 ![Modelo da página inicial com anotações mostrando os detalhes de elementos e estilização](documentos-do-tio/pagina-inicial-specs.png)
 
 Você deve pegar o documento do seu tio (arquivo:
